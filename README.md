@@ -5,9 +5,9 @@
 
 ---
 
-### Name: 
-### Student Id: 
-### Email: 
+### Name: Allan Wong
+### Student Id: 21099834
+### Email: acswong@connect.ust.hk
 
 ---
 
