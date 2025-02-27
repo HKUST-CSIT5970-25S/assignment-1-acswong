@@ -25,7 +25,7 @@
     | ----------- | --------------- | ------------------ |
     | `t2.micro` |             Compression: 3495 Decompression: 3072    |    10666.04 MB/s                |
     | `t2.medium`  |      Compression: 10215 Decompression: 5954          |       20041.07 MB/s             |
-    | `c5d.large` |                 |                    |
+    | `c5d.large` |          Comprpression: 7532 Decompression: 4838       |   13484.58 MB/s                |
 
     > Region: US East (N. Virginia). Use `Ubuntu Server 22.04 LTS (HVM)` as AMI.
 
