@@ -23,7 +23,7 @@
 
     | Size        | CPU performance (Average) | Memory performance |
     | ----------- | --------------- | ------------------ |
-    | `t2.micro` |             Compression: 3495 Decompression: 3072    |                    |
+    | `t2.micro` |             Compression: 3495 Decompression: 3072    |    10666.04 MB/s                |
     | `t2.medium`  |                 |                    |
     | `c5d.large` |                 |                    |
 
