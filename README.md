@@ -39,7 +39,7 @@
     | `m5.large` - `m5.large`   |      9.39 Gbits/sec          |    0.107      |
     | `c5n.large` - `c5n.large` |            4.96 Gbits/sec    |   0.164       |
     | `t3.medium` - `c5n.large` |       2.78 Gbits          |     0.547     |
-    | `m5.large` - `c5n.large`  |                |          |
+    | `m5.large` - `c5n.large`  |        4.96 Gbits        |       0.144   |
     | `m5.large` - `t3.medium`  |                |          |
 
     > Region: US East (N. Virginia). Use `Ubuntu Server 22.04 LTS (HVM)` as AMI. Note: Use private IP address when using iPerf within the same region. You'll need iPerf for measuring TCP bandwidth and Ping for measuring Round-Trip time.
