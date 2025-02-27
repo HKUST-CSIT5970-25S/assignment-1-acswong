@@ -21,7 +21,7 @@
 
     In order to answer this question, you need to complete the following table by filling out blanks with the measurement results corresponding to each instance type.
 
-    | Size        | CPU performance | Memory performance |
+    | Size        | CPU performance (Average) | Memory performance |
     | ----------- | --------------- | ------------------ |
     | `t2.micro` |             Compression: 3495 Decompression: 3072    |                    |
     | `t2.medium`  |                 |                    |
