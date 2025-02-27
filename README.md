@@ -37,7 +37,7 @@
     | ------------------------- | -------------- | -------- |
     | `t3.medium` - `t3.medium` |       3.03 Gbits/sec         |     0.314     |
     | `m5.large` - `m5.large`   |      9.39 Gbits/sec          |    0.107      |
-    | `c5n.large` - `c5n.large` |                |          |
+    | `c5n.large` - `c5n.large` |            hello, AWS randomly deactivated my account and now i cannot continue    |          |
     | `t3.medium` - `c5n.large` |                |          |
     | `m5.large` - `c5n.large`  |                |          |
     | `m5.large` - `t3.medium`  |                |          |
